@@ -27,7 +27,7 @@ This project is a simple web application that generates dad jokes using the API 
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/dad-jokes-generator.git
+    git clone https://github.com/your-username/dad-jokes-generator.git](https://github.com/rinisaram/dadjokes.git
     ```
 
 2. Navigate to the project directory:
